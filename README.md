@@ -4,7 +4,8 @@
 <p align="center">
 <Img src="https://raw.githubusercontent.com/vishalgaddam873/Bhrashtachar-Virodhi/master/assets/icon.png" width="250" height="250" />
 </p>
-## Install important tools using command :
+
+<h2>Install important tools using command :</h2>
 - For Mac and Linux users :-
 
   * `sudo apt-get install git`
@@ -18,13 +19,13 @@
 Clone this app using the command:
   * `git clone https://github.com/vishalgaddam873/Bhrashtachar-Virodhi.git`
 
-## Instruction of useage
+<h2>Instruction of useage</h2>
 
-## How to run the Project?
+<h2>How to run the Project?</h2>
 
  * `cd Bhrashtachar-Virodhi/`
  * `expo start`
 
-## Proposed App features
+<h2>Proposed App features</h2>
 - Report corruption by location. 
 - Track and Visuilize corruption data by geography.

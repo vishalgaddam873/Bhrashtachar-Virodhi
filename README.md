@@ -1,8 +1,9 @@
 <h1 align = "center">Bhrashtachar Virodhi</h1>
 <p align = "center">A anti corruption app</p>
 <br>
-<Img src="https://raw.githubusercontent.com/vishalgaddam873/Bhrashtachar-Virodhi/master/assets/icon.png" width="250" height="250" style="display: block;margin-left: auto;margin-right: auto;"/>
-
+<p align="center">
+<Img src="https://raw.githubusercontent.com/vishalgaddam873/Bhrashtachar-Virodhi/master/assets/icon.png" width="250" height="250" />
+</p>
 ## Install important tools using command :
 - For Mac and Linux users :-
 

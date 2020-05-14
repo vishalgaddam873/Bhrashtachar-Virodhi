@@ -1,5 +1,5 @@
 # Bhrashtachar-Virodhi
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![App_icon](https://raw.githubusercontent.com/vishalgaddam873/Bhrashtachar-Virodhi/master/assets/icon.png)
 Anti Corruption App
 
 ## Proposed App features

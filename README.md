@@ -1,5 +1,5 @@
 <h1 align = "center">Bhrashtachar Virodhi</h1>
-<p align = "center">A anti corruption app</p>
+<p align = "center">Anti-Corruption App</p>
 <br>
 <p align="center">
 <Img src="https://raw.githubusercontent.com/vishalgaddam873/Bhrashtachar-Virodhi/master/assets/icon.png" width="250" height="250" />
@@ -7,7 +7,13 @@
 
 <h2>Install important tools using command :</h2>
 
-<p>For Mac and Linux users :-</p>
+<p>For Mac users :-</p>
+
+  * `brew install git`
+  * `brew install nodejs`
+  * `sudo npm install -g expo-cli`
+  
+<p>For Linux users :-</p>
 
   * `sudo apt-get install git`
   * `sudo apt-get install nodejs`

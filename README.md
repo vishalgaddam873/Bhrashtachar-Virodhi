@@ -26,6 +26,7 @@ Clone this app using the command:
 <p>How to run the Project?</p>
 
  * `cd Bhrashtachar-Virodhi/`
+  * `npm install` or `yarn install`
  * `expo start`
 
 <h2>Proposed App features</h2>

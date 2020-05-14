@@ -6,14 +6,16 @@
 </p>
 
 <h2>Install important tools using command :</h2>
-- For Mac and Linux users :-
+
+<bold>For Mac and Linux users :-</bold>
 
   * `sudo apt-get install git`
   * `sudo apt-get install nodejs`
   * `sudo npm install -g expo-cli`
  
- - For windows users
-  -- Downlaod the Nodejs from this link : - 
+ <bold>For windows users</bold>
+ 
+  * [Download Node Js](https://nodejs.org/en/download/)
   * `npm install -g expo-cli`
 
 Clone this app using the command:
@@ -21,11 +23,12 @@ Clone this app using the command:
 
 <h2>Instruction of useage</h2>
 
-<h2>How to run the Project?</h2>
+<bold>How to run the Project?</bold>
 
  * `cd Bhrashtachar-Virodhi/`
  * `expo start`
 
 <h2>Proposed App features</h2>
+
 - Report corruption by location. 
 - Track and Visuilize corruption data by geography.

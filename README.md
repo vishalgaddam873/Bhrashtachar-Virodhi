@@ -7,13 +7,13 @@
 
 <h2>Install important tools using command :</h2>
 
-<bold>For Mac and Linux users :-</bold>
+<p>For Mac and Linux users :-</p>
 
   * `sudo apt-get install git`
   * `sudo apt-get install nodejs`
   * `sudo npm install -g expo-cli`
  
- <bold>For windows users</bold>
+ <p>For windows users</p>
  
   * [Download Node Js](https://nodejs.org/en/download/)
   * `npm install -g expo-cli`
@@ -23,7 +23,7 @@ Clone this app using the command:
 
 <h2>Instruction of useage</h2>
 
-<bold>How to run the Project?</bold>
+<p>How to run the Project?</p>
 
  * `cd Bhrashtachar-Virodhi/`
  * `expo start`

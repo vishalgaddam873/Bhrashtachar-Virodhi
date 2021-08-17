@@ -7,7 +7,7 @@
 
 <h2>Install important tools using command :</h2>
 
-<p>For Mac users :123-</p>
+<p>For Mac users :-</p>
 
 - `brew install git`
 - `brew install nodejs`
